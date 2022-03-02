@@ -13,7 +13,7 @@
 <hr>  
 
   <h3>Contatos</h3>
-        <a href = "mailto:nayara.loureiro@gfatec.sp.gov.br"> <img src = "https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=Microsoft-outlook&logoColor=white" " target = "_ blank"> </a>
+        <a href = "mailto:nayara_santosl@hotmail.com"> <img src = " 	https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" " target = "_ blank"> </a>
         <a href = "mailto:nsloureiroadv@gmail.com"> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" " target = "_ blank"></a>
 <hr>
   
