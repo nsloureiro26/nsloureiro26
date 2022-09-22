@@ -18,7 +18,7 @@
 <hr>
   
   <h3> Redes Sociais</h3>
-        <a href="https://www.linkedin.com/in/alexsgross/" target="_blank"> <img src = "https://img.shields.io/badge/-LinkedIn-%230077B5?style = for-the-badge & logo = linkedin & logoColor = white "target =" _ blank "> </a> 
+        <a href="https://www.linkedin.com/in/nayara-dos-santos-loureiro-631b04207/" target="_blank"> <img src = "https://img.shields.io/badge/-LinkedIn-%230077B5?style = for-the-badge & logo = linkedin & logoColor = white "target =" _ blank "> </a> 
 <hr>
    
   <h3> Linguagens</h3>
